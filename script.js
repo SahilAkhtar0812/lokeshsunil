@@ -6,7 +6,7 @@
     ============================== */
 
     const CONFIG = Object.freeze({
-        pixelId: '1612265830290089',
+        pixelId: '1109905924978256',
         telegramUrl: 'https://t.me/+zjVI1OFDMspiYjg9',
 
         // Visitor qualification
@@ -34,7 +34,7 @@
     let pageViewTracked = false;
     let subscribeTracked = false;
     let navigationStarted = false;
-    let humanInteractionDetected = false;
+    let humanInteractionDetected = false;²
 
 
     /* ==============================
